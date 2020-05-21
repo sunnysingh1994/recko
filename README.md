@@ -1,6 +1,6 @@
 # recko
 recko assignment
-This project is solution of flowing problem given to me in recko intervies assignment 
+This project is solution of following problem given to me in recko interview assignment 
 
 There are multiple parallel universes. Each person in a universe has an identity `id` and a
 power. Power can be a positive or negative integer. All people are divided into families identified
@@ -44,7 +44,7 @@ CREATE TABLE `person` (
 
 
 
-Once database and table is created you need to update application.property file with you db username and password.
+Once database and table is created you need to update application.properties file with your db username and password.
 In order to access API we have Created Swagger UI with following controller ( use this url in order to access swagger 
 http://localhost:8080/swagger-ui.html#/ )
 
