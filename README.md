@@ -50,8 +50,8 @@ In order to access API we have Created Swagger UI with following controller ( us
 http://localhost:8080/swagger-ui.html#/ )
 
 1. universe-controller ( for creating, updating , deleting universe )
-2. family-controller ( for creating, updating , deleting family in a univers )
-3. person-controller  ( for creating, updating , deleting person in a univers family )
+2. family-controller ( for creating, updating , deleting family in a universe )
+3. person-controller  ( for creating, updating , deleting person in a universe family )
 4 . Answer controller ( Provide Api for Assigment Questions Solution )
    a.  List families in a particular universe
    API URL : http://localhost:8080/swagger-ui.html#/answer-controller/getByUniverseIdUsingGET
