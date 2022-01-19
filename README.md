@@ -1,5 +1,6 @@
 # recko
-recko assignment
+recko Company assignment
+
 This project is solution of following problem given to me in recko interview assignment 
 
 There are multiple parallel universes. Each person in a universe has an identity `id` and a
